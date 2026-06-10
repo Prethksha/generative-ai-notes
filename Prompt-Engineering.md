@@ -9,6 +9,7 @@
 - Chain of Thought
 
 ## Example
+
 Prompt:
 "Explain Machine Learning in simple terms."
 
@@ -16,6 +17,7 @@ Result:
 AI generates a beginner-friendly explanation.
 
 ##key concepts
+
 1. Prompt engineering is a practice of crafting clear instructions to guide AI models in generating accurate and relevant responses.
 
 2. Types of prompts, such as direct, open-ended, and task-specific prompts help guide the AI to produce clearer, more relevant and useful output.
@@ -27,6 +29,7 @@ AI generates a beginner-friendly explanation.
 5. When writing prompts, use the best practices of setting clear objectives, providing sufficient context, being specific and precise, using a conversational tone, and refining the prompts for best results.
 
 6. Using IBM watsonx Prompt Lab helps users draft and refine their LinkedIn and social media profile write-ups by applying prompt engineering techniques.
+   
 
 ##Learning objectives
 
