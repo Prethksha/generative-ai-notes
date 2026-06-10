@@ -36,5 +36,4 @@
 
 • Identify ethical considerations and risks related to data inputs in AI tools
 
-•
-Explain the ethical implications of managing AI-generated content
+• Explain the ethical implications of managing AI-generated content
