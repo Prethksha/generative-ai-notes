@@ -1,5 +1,7 @@
 # Retrieval-Augmented Generation (RAG)
+
 ## What is RAG?
+
 Retrieval augmented generation, or RAG, is an architecture for optimizing the performance of an artificial intelligence (AI) model by connecting it with external knowledge bases. RAG helps large language models (LLMs) deliver more relevant responses at a higher quality.
 RAG combines:
 1. Information Retrieval
