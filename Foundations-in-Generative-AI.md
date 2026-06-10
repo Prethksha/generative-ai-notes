@@ -28,7 +28,9 @@ Generative AI refers to artificial intelligence systems capable of creating new 
 
 ##key concepts
 1. During the generative AI process the development team inputs data in the AI model, the AI model analyzes this data, looking for patterns and relationships between the different pieces of information, and, finally, the AI model uses what it has learned to create something new.
-2. LLMs generate text based on input prompts using the process of tokenization, contextual understanding, prediction, and output generation. 
+
+2. LLMs generate text based on input prompts using the process of tokenization, contextual understanding, prediction, and output generation.
+   
 3. Generative AI excels at four everyday types of tasks, each using learned patterns to produce or adapt material:
 
 ##Content creation
@@ -48,4 +50,5 @@ Generative AI refers to artificial intelligence systems capable of creating new 
 • Identify how large language models generate text based on input prompts
 • Select tasks that generative AI is best suited to perform
 • Apply prompt refinement techniques to improve the quality of AI-generated responses
+
 
